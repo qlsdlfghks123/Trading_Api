@@ -11,3 +11,5 @@ print(f"발급 받은 토큰: {token}")
 if token:
     result = revoke_token(config, token)
     print(f"폐기 결과: {result}")
+
+#commit msg
